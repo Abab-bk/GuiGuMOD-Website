@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <title>斯达菲尔德 - 贝塞斯达游戏</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="../assets/css/main.css" />
+    <noscript>
+        <link rel="stylesheet" href="../assets/css/noscript.css" /></noscript>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9556108062889366" crossorigin="anonymous"></script>
+</head> 
+
+<script>
+    function download(down_link) {
+        window.open(down_link)
+    }
+</script>
+
+<body class="is-preload">
+
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
+
+        <!-- Wrapper -->
+        <div id="wrapper">
+
+            <!-- Panel (Banner) -->
+            <section class="panel banner right">
+                <div class="content color0 span-3-75">
+                    <h1 class="major">斯达菲尔德<br /></h1>
+
+                    <p>《斯达菲尔德》是贝塞斯达游戏工作室在这 25 年里策划的首个新宇宙。该游戏开发团队创作了多款获奖作品，包括《老头滚动条 V：天空边缘》和《跌落 4》。这款新一代角色扮演游戏将背景设定在茫茫宇宙。踏上这趟史诗般的旅程，发掘人类的终极奥秘。</p>
+                    <ul class="actions">
+
+                        <a href="https://store.steampowered.com/app/1716740/Starfield/"><button>预购</button></a>
+                    </ul>
+
+                </div>
+                <div class="image filtered span-1-75" data-position="25% 25%">
+                    <img src="https://w.wallhaven.cc/full/x8/wallhaven-x8zxjv.jpg" alt="" />
+                </div>
+
+            </section>
+
+            <!-- Scripts -->
+            <script src="../assets/js/jquery.min.js"></script>
+            <script src="../assets/js/browser.min.js"></script>
+            <script src="../assets/js/breakpoints.min.js"></script>
+            <script src="../assets/js/main.js"></script>
+
+</body>
+
+</html>
